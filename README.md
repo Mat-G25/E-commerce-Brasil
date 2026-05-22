@@ -23,7 +23,8 @@ CSVs (Kaggle) → SQLite (banco local) → Streamlit (dashboard web)
 
 ## Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/Mat-G25/ecommerce-brasil/main/assets/preview.png)
+<img width="1875" height="964" alt="image" src="https://github.com/user-attachments/assets/2a85f946-669b-4c0b-adcf-e4004fe915de" />
+
 
 ---
 
@@ -113,6 +114,7 @@ python database/load_data.py
 ### 6. Rode o dashboard
 
 ```bash
+cd dashboard
 streamlit run dashboard/app.py
 ```
 
@@ -141,4 +143,4 @@ Acesse em: **http://localhost:8501**
 ## Autor
 
 **Matheus Guimarães**
-[github.com/Mat-G25](https://github.com/Mat-G25)
+[[github.com/Mat-G25](https://github.com/Mat-G25)](https://www.linkedin.com/in/matheus-guimaraes2005/)
