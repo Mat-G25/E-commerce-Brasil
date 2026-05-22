@@ -142,5 +142,8 @@ Acesse em: **http://localhost:8501**
 
 ## Autor
 
-**Matheus Guimarães**
-[[github.com/Mat-G25](https://github.com/Mat-G25)](https://www.linkedin.com/in/matheus-guimaraes2005/)
+### Matheus Guimarães
+
+<a href="https://www.linkedin.com/in/matheus-guimaraes2005/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
